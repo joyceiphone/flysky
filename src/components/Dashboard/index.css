@@ -1,0 +1,15 @@
+.cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+}
+
+.card-container{
+    flex: 0 0 30%;
+    margin: 10px;
+}
+.modal-body{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
